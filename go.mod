@@ -1,10 +1,6 @@
-
-//module github.com/hbstack/theme-cards/exampleSite
 module github.com/samulesung/samulesung.github.io
 
 go 1.19
-
-replace github.com/hbstack/theme-cards => ../
 
 require (
 	github.com/GoogleChrome/workbox v7.1.0+incompatible // indirect
@@ -69,6 +65,7 @@ require (
 	github.com/hbstack/theme-cards v0.1.1 // indirect
 	github.com/hbstack/toc-scrollspy v0.1.0 // indirect
 	github.com/henrygd/bigger-picture v1.1.17 // indirect
+	github.com/hugomods/ascii v0.1.0 // indirect
 	github.com/hugomods/base v0.7.0 // indirect
 	github.com/hugomods/bootstrap v0.22.2 // indirect
 	github.com/hugomods/code-block-panel v0.7.0 // indirect
